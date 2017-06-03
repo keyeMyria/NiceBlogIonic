@@ -1,4 +1,4 @@
-#NiceFish-ionic
+#MyBlogIonic
 
 MyBlog是一个基于大漠穷秋NiceFish项目开发的个人技术博客系列项目，使用MEAN-stack技术栈(MongoDB + Express + Angular4 + NodeJs)开发。
 
